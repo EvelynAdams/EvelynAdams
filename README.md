@@ -3,7 +3,7 @@ I began studying computational mathematics at the University of Central Florida 
 
 On this site you will find that I have posted some of my personal and course projects.[^1]  Currently this includes explorations of the C and Java languages. Any work that was done for a class has been clearly labeled as academic property and should not be copied for other academic purposes.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynAdams" />
+<!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynAdams" />--->
 
 
 
