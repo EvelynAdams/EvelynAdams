@@ -1,7 +1,7 @@
 # Hi, I’m Evelyn Adams 
 I began studying computational mathematics at the University of Central Florida in the Fall of 2020; where I discovered my passion for computer science when taking an introduction to programming course. I added a minor in computer Science the same semester and have thoroughly enjoyed it thus far.  
 
-On this site you will find that I have posted some of my personal and course projects.[^1]  Currently this includes explorations of the C and Java languages. Any work that was done for a class has been clearly labeled as academic property and should not be copied for other academic purposes.
+On this site you will find that I have posted some of my personal and course projects.[^1]  Currently this includes explorations of the C, C++ and Java languages. Any work that was done for a class has been clearly labeled as academic property and should not be copied for other academic purposes.
 
 <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynAdams" />--->
 
