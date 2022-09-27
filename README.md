@@ -15,7 +15,9 @@ If you're interested in contacting me or seeing a more up to date history of my 
 ### My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvelynAdams)](https://git.io/streak-stats)  
 
-[![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvelynAdams)](https://github.com/anuraghazra/github-readme-stats)
+![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvelynAdams&count_private=true)
+
+
 
 
 
