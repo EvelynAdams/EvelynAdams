@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"/>  
 </div>
 
-# Hi, I'm Evelyn
+# Hi, I'm Evelyn!
 
 I began studying computational mathematics at the University of Central Florida in the Fall of 2020; where I discovered my passion for computer science when taking an introduction to programming course. I added a minor in computer Science the same semester and have thoroughly enjoyed it thus far.  
 
@@ -14,7 +14,8 @@ If you're interested in contacting me or seeing a more up to date history of my 
 
 ### My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvelynAdams)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynAdams)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvelynAdams)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
